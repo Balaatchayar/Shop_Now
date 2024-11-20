@@ -39,4 +39,6 @@ PORT=5000
    ```
 
 
+![Shop Now](frontend/src/assets/shopnow1.png)
 
+![Shop Now](frontend/src/assets/shopnow2.png)
