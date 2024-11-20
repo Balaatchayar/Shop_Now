@@ -38,5 +38,8 @@ PORT=5000
    npm run dev
    ```
 
+![Project Screenshot](frontend/src/assets/shopnow1.png)
 
+
+![Project Screenshot](frontend/src/assets/shopnow2.png)
 
